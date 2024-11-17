@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_cluster/cluster",
+  "textures": {
+		"cluster": "betterend:block/fantasy_ores/smaragdant_crystal/smaragdant_cluster",
+		"blink": "betterend:block/fantasy_ores/smaragdant_crystal/smaragdant_blink"
+  }
+}

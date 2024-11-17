@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template/zk_debris",
+  "textures": {
+		"block_top": "block/netherrack",
+		"block": "block/netherrack",
+		"ore": "betternether:block/fantasy_ores/ruby_top",
+		"ore_side": "betternether:block/fantasy_ores/ruby_side"
+  }
+}

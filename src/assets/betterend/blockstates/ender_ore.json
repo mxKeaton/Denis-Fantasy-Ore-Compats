@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "betterend:block/ender_ore",
+        "y": 270
+      },
+      {
+        "model": "betterend:block/ender_ore",
+        "y": 180
+      },
+      {
+        "model": "betterend:block/ender_ore"
+      },
+      {
+        "model": "betterend:block/ender_ore",
+        "y": 90
+      }
+    ]
+  }
+}

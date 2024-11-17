@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template/zk_rock",
+  "textures": {
+		"block": "regions_unexplored:block/cobalt_obsidian"
+  }
+}

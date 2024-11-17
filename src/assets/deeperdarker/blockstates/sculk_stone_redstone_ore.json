@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "deeperdarker:block/sculk_stone_redstone_ore",
+        "y": 270
+      },
+      {
+        "model": "deeperdarker:block/sculk_stone_redstone_ore",
+        "y": 180
+      },
+      {
+        "model": "deeperdarker:block/sculk_stone_redstone_ore"
+      },
+      {
+        "model": "deeperdarker:block/sculk_stone_redstone_ore",
+        "y": 90
+      }
+    ]
+  }
+}

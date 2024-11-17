@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "universal_ores:block/andesite_emerald_ore",
+        "y": 270
+      },
+      {
+        "model": "universal_ores:block/andesite_emerald_ore",
+        "y": 180
+      },
+      {
+        "model": "universal_ores:block/andesite_emerald_ore"
+      },
+      {
+        "model": "universal_ores:block/andesite_emerald_ore",
+        "y": 90
+      }
+    ]
+  }
+}

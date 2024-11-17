@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template/zk_rock",
+  "textures": {
+		"block": "betternether:block/weeping_obsidian"
+  }
+}

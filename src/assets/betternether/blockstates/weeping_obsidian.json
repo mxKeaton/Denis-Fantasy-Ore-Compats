@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "betternether:block/weeping_obsidian",
+        "y": 270
+      },
+      {
+        "model": "betternether:block/weeping_obsidian",
+        "y": 180
+      },
+      {
+        "model": "betternether:block/weeping_obsidian"
+      },
+      {
+        "model": "betternether:block/weeping_obsidian",
+        "y": 90
+      }
+    ]
+  }
+}

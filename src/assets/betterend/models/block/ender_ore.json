@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template/zk_crystal",
+  "textures": {
+		"block_top": "block/end_stone",
+		"block": "block/end_stone",
+	  "crystal_ore": "betterend:block/fantasy_ores/ender_ore"
+  }
+}

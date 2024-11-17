@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "betternether:block/blue_obsidian",
+        "y": 270
+      },
+      {
+        "model": "betternether:block/blue_obsidian",
+        "y": 180
+      },
+      {
+        "model": "betternether:block/blue_obsidian"
+      },
+      {
+        "model": "betternether:block/blue_obsidian",
+        "y": 90
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template/zk_debris",
+  "textures": {
+		"block_top": "block/end_stone",
+		"block": "block/end_stone",
+		"ore": "lolenderite:block/fantasy_ores/primordial_remnants_top",
+    "ore_side": "lolenderite:block/fantasy_ores/primordial_remnants_side"
+  }
+}
