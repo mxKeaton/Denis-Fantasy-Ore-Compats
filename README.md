@@ -1,4 +1,4 @@
-This is a small collection of Fantasy Ores resource pack compats.
+This is a small collection of Fantasy Ores mod compats.
 It will be updated every once in a while, while also considering user requests.
 You are free to post some requests in the [issues tab](https://github.com/mxKeaton/Denis-Fantasy-Ore-Compats/issues "issues tab")!
 
