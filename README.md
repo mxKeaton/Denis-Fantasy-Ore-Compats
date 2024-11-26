@@ -12,7 +12,8 @@ You are free to post some requests in the [issues tab](https://github.com/mxKeat
 - Regions Unexplored
 
 ### Suggested sorting order is:
-- Denis' Fantasy Ores Compats
-- Fantasy Ores
+Fantasy Ores - Denis' Mod Compats
+other Fantasy Ore Addons
+Fantasy Ores by CesarZorak / Denis' Fantasy Ores Fix
 
 Credit goes to the original [Fantasy Ores](https://www.curseforge.com/minecraft/texture-packs/fantasy-ores-by-cesarzorak "Fantasy Ores") resource pack and its creators.
