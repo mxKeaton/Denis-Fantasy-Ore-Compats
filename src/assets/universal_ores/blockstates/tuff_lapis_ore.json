@@ -3,18 +3,10 @@
     "": [
       {
         "model": "universal_ores:block/tuff_lapis_ore",
-        "y": 270
-      },
-      {
-        "model": "universal_ores:block/tuff_lapis_ore",
         "y": 180
       },
       {
         "model": "universal_ores:block/tuff_lapis_ore"
-      },
-      {
-        "model": "universal_ores:block/tuff_lapis_ore",
-        "y": 90
       }
     ]
   }

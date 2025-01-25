@@ -3,18 +3,10 @@
     "": [
       {
         "model": "deeperdarker:block/gloomslate_coal_ore",
-        "y": 270
-      },
-      {
-        "model": "deeperdarker:block/gloomslate_coal_ore",
         "y": 180
       },
       {
         "model": "deeperdarker:block/gloomslate_coal_ore"
-      },
-      {
-        "model": "deeperdarker:block/gloomslate_coal_ore",
-        "y": 90
       }
     ]
   }

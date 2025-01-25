@@ -3,18 +3,10 @@
     "": [
       {
         "model": "betternether:block/nether_lapis_ore",
-        "y": 270
-      },
-      {
-        "model": "betternether:block/nether_lapis_ore",
         "y": 180
       },
       {
         "model": "betternether:block/nether_lapis_ore"
-      },
-      {
-        "model": "betternether:block/nether_lapis_ore",
-        "y": 90
       }
     ]
   }

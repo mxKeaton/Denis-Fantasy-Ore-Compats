@@ -3,18 +3,10 @@
     "": [
       {
         "model": "universal_ores:block/calcite_coal_ore",
-        "y": 270
-      },
-      {
-        "model": "universal_ores:block/calcite_coal_ore",
         "y": 180
       },
       {
         "model": "universal_ores:block/calcite_coal_ore"
-      },
-      {
-        "model": "universal_ores:block/calcite_coal_ore",
-        "y": 90
       }
     ]
   }

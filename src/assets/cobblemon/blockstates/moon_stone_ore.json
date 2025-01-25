@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "cobblemon:block/moon_stone_ore",
+        "y": 180
+      },
+      {
+        "model": "cobblemon:block/moon_stone_ore"
+      }
+    ]
+  }
+}

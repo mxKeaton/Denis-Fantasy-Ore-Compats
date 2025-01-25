@@ -2,13 +2,8 @@
   "variants": {
     "": [
       {
-        "model": "universal_ores:block/diorite_copper_ore"
-      },
-      {
-        "model": "universal_ores:block/diorite_copper_ore"
-      },
-      {
-        "model": "universal_ores:block/diorite_copper_ore"
+        "model": "universal_ores:block/diorite_copper_ore",
+        "y": 180
       },
       {
         "model": "universal_ores:block/diorite_copper_ore"

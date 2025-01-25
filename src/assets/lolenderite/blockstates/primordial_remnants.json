@@ -3,18 +3,10 @@
     "": [
       {
         "model": "lolenderite:block/primordial_remnants",
-        "y": 270
-      },
-      {
-        "model": "lolenderite:block/primordial_remnants",
         "y": 180
       },
       {
         "model": "lolenderite:block/primordial_remnants"
-      },
-      {
-        "model": "lolenderite:block/primordial_remnants",
-        "y": 90
       }
     ]
   }

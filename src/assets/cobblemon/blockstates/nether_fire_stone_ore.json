@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "cobblemon:block/nether_fire_stone_ore",
+        "y": 180
+      },
+      {
+        "model": "cobblemon:block/nether_fire_stone_ore"
+      }
+    ]
+  }
+}

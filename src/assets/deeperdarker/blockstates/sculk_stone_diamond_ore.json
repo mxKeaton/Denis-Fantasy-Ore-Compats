@@ -3,18 +3,10 @@
     "": [
       {
         "model": "deeperdarker:block/sculk_stone_diamond_ore",
-        "y": 270
-      },
-      {
-        "model": "deeperdarker:block/sculk_stone_diamond_ore",
         "y": 180
       },
       {
         "model": "deeperdarker:block/sculk_stone_diamond_ore"
-      },
-      {
-        "model": "deeperdarker:block/sculk_stone_diamond_ore",
-        "y": 90
       }
     ]
   }

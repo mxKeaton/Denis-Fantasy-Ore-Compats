@@ -10,11 +10,11 @@
         "y": 180
       },
       {
-        "model": "betternether:block/blue_weeping_obsidian"
-      },
-      {
         "model": "betternether:block/blue_weeping_obsidian",
         "y": 90
+      },
+      {
+        "model": "betternether:block/blue_weeping_obsidian"
       }
     ]
   }

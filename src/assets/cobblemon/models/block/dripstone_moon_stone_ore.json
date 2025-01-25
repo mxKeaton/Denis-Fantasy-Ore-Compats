@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template/zk_nugget",
+  "textures": {
+		"block_top": "block/dripstone_block",
+		"block": "block/dripstone_block",
+		"ore": "cobblemon:block/fantasy_ores/moon_stone_ore"
+  }
+}
