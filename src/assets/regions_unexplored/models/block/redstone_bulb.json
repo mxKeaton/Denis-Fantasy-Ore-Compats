@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_cluster/cluster",
+  "textures": {
+		"cluster": "regions_unexplored:block/redstone_bulb/redstone_cluster",
+		"blink": "regions_unexplored:block/redstone_bulb/redstone_blink"
+  }
+}
